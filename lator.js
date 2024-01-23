@@ -4,7 +4,7 @@ a.addEventListener("click", function() {
     if (flag == 0) {
         a.style.backgroundColor = "yellow"
         flag = 1
-        console.log("thankyou sheryians coding school")
+        console.log("thankyou")
     } else {
         a.style.backgroundColor = "blue"
         flag = 0
